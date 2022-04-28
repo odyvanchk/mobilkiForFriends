@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "83102943204",
+    "firebase_url": "https://weather-app-kotlin-e23a5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "weather-app-kotlin-e23a5",
+    "storage_bucket": "weather-app-kotlin-e23a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83102943204:android:0aa2d0acbce2cd0126a9f1",
+        "android_client_info": {
+          "package_name": "com.example.lab2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83102943204-6mmpu0j4hjbgi4qop4ok8kgfssohm8p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_Vyd1OBZ1vAzWd08Fj0PGJx6CUYUFHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83102943204-6mmpu0j4hjbgi4qop4ok8kgfssohm8p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

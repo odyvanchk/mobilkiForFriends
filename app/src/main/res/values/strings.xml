@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lingvoleo</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_splasn_screen">SplasnScreen</string>
+    <string name="dev_name">Created by Kseniya Ermakovich</string>
+    <string name="title_activity_authorization">Authorization</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="login">login</string>
+    <string name="don_t_have_an_account_sign_in">sign up?</string>
+    <string name="filters">filter</string>
+    <string name="sign_out">sign out</string>
+    <string name="show_as_list">list/grid</string>
+    <string name="title_activity_person_detail">Person Detail</string>
+    <string name="title_activity_edit_person">Edit Person</string>
+</resources>
